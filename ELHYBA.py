@@ -124,7 +124,7 @@ else:
 
 if "sudo" not in info:
     info["sudo"] = '5207032121'
-    info["admins"] = {7016486792}
+    info["admins"] = {6904096058}
     with open("echo_data.json", "w") as json_file:
         json.dump(info, json_file)
 
